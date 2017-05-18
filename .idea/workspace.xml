@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44689542-311d-4934-b224-d0014d2152aa" name="Default" comment="" />
+    <list default="true" id="44689542-311d-4934-b224-d0014d2152aa" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -933,12 +935,12 @@
       <workItem from="1491591895105" duration="1464000" />
       <workItem from="1491758079710" duration="3496000" />
       <workItem from="1491827576148" duration="3977000" />
-      <workItem from="1495117085358" duration="1677000" />
+      <workItem from="1495117085358" duration="1932000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="217327000" />
+    <option name="totallyTimeSpent" value="217582000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -950,7 +952,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1869" height="1040" extended-state="1" />
+    <frame x="0" y="0" width="1869" height="1040" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
